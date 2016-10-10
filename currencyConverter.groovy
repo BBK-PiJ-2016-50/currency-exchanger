@@ -1,4 +1,4 @@
-println "THIS IS A AN EDIT FOR GIUTHUB LEARNING"
+println "THIS IS A AN EDIT FOR GIUTHUB LEARNINGfgj"
 print "If I give you £1, how many Euro will you give me, dude? ";
 double euroOverPoundRatio = Double.parseDouble(System.console().readLine());
 print "If I give you 1€, how many Sterling pounds will you give me, hombre? ";
